@@ -1,2 +1,2 @@
-# library-dataset
-Dataset and Code from the paper: Library Dataset: Automatic Inventory as a Many to Many Matching Task
+# Library Dataset: Automatic Inventory as a Many to Many Matching Task
+Dataset and code coming soon.

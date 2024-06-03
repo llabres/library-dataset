@@ -16,7 +16,7 @@ One Shelf Example             |  Two Shelves Example
   - `series`: For books that belong to a series, the name of the series.
   - `ISBN`: International Standard Book Number.
 
-The Large-Scale Catalogue must be downloaded from [here](https://cvcuab-my.sharepoint.com/:x:/g/personal/allabres_cvc_uab_cat/EdXizczi3wtLhB8Qvm5dU1kBxW3jJHovKuHbN4LrqzhpgA?e=99UY13).
+The Large-Scale Catalogue must be downloaded from [here](https://cvcuab-my.sharepoint.com/:u:/g/personal/allabres_cvc_uab_cat/ETEdq8Q803tAiRmwypHSnPUBv0tlF_B9pQsJJVB61lRyqw?e=B6gDqb).
 - [Large-Scale Catalogue](data/target_lists/all_books.csv) - `data/target_lists/all_books.csv`: Contains the following columns:
   - `title`: Title of the book.
   - `author`: Author of the book  - `series`: For books that to a series, the name of the series.

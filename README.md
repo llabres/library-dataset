@@ -7,7 +7,6 @@ One Shelf Example             |  Two Shelves Example
 ![](sample_images/one_shelf_example.jpg)  |  ![](sample_images/two_shelves_example.jpg)
 
 ## Dataset
-All annotations and both target lists are included in this repository.
 
 ### Target Lists
 - [True Library Inventory](data/target_lists/library_books.csv) - `data/target_lists/library_books.csv`: List of 15,229 books in the library. Contains the following columns:
@@ -16,13 +15,14 @@ All annotations and both target lists are included in this repository.
   - `tag`: Non-unique identifier used by the library, it is present on all book-spines in as black text on a white background.
   - `series`: For books that belong to a series, the name of the series.
   - `ISBN`: International Standard Book Number.
+
+The Large-Scale Catalogue must be downloaded from [here](https://cvcuab-my.sharepoint.com/:x:/g/personal/allabres_cvc_uab_cat/EdXizczi3wtLhB8Qvm5dU1kBxW3jJHovKuHbN4LrqzhpgA?e=99UY13).
 - [Large-Scale Catalogue](data/target_lists/all_books.csv) - `data/target_lists/all_books.csv`: Contains the following columns:
   - `title`: Title of the book.
-  - `author`: Author of the book.
-  - `series`: For books that belong to a series, the name of the series.
+  - `author`: Author of the book  - `series`: For books that to a series, the name of the series.
   - `language`: Language of the book.
-  
 
+  
 ### Annotations
 The main annotation for this dataset is the books that appear in each image. The annotations are stored in the following file:
 

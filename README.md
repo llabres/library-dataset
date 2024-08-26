@@ -38,6 +38,4 @@ Both sets of images can be downloaded from the following links:
 
 Unzip the images in `data/images/`.
 
-## Training and Eval Code
-Coming soon...
 

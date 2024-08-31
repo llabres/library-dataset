@@ -40,7 +40,7 @@ Unzip the images in `data/images/`.
 
 ## Demos
 
-Check out the demos at `demos/`:
+Check out the demos at `demo/`:
 
-- [Book Search Demo](demos/search_demo/README.md): This demo prompts the user to input a book title or author name, and returns the image where the book has been detected.
+- [Book Search Demo](demo/search_demo/README.md): This demo prompts the user to input a book title or author name, and returns the image where the book has been detected.
 

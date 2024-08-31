@@ -38,4 +38,9 @@ Both sets of images can be downloaded from the following links:
 
 Unzip the images in `data/images/`.
 
+## Demos
+
+Check out the demos at `demos/`:
+
+- [Book Search Demo](demos/search_demo/README.md): This demo prompts the user to input a book title or author name, and returns the image where the book has been detected.
 

@@ -42,5 +42,10 @@ Unzip the images in `data/images/`.
 
 Check out the demos at `demo/`:
 
+Book Identification Demo           |  Book Search Demo
+:-------------------------:|:-------------------------:
+![](demo/book_identification_demo/result_example.jpg)  |  ![](demo/search_demo/demo_ui.png)
+
+- [Book Identification Demo](demo/book_identification_demo/README.md): Given an image of a bookshelf, this demo identifies the books present in the image.
 - [Book Search Demo](demo/search_demo/README.md): This demo prompts the user to input a book title or author name, and returns the image where the book has been detected.
 
